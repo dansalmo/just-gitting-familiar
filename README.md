@@ -15,4 +15,4 @@ Just had to run these two commands at the power shell prompt:
 
 and then close and re-open power shell.
 
-What happens if I edit directly on Github?
+What happens if I edit directly on Github?  I found out about it locally with git status.
