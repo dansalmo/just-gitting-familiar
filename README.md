@@ -14,3 +14,5 @@ Just had to run these two commands at the power shell prompt:
   install-module posh-git
 
 and then close and re-open power shell.
+
+What happens if I edit directly on Github?
